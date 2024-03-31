@@ -12,3 +12,7 @@ const employees = [
 ];
 
 // Start coding here
+employees.push("Alicia", 29, ["Shopping", "Reading novels"]);
+
+employees.push("Kody", 19, ["Computer games", "Wakeboards"]);
+
